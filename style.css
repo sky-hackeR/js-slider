@@ -283,7 +283,7 @@ header a{
     animation: contentOut 1.5s linear 1 forwards!important;
 }
 
-@keyframes contentOut{
+/* @keyframes contentOut{
     to{
         transform: translateY(-150px);
         filter: blur(20px);
@@ -297,4 +297,4 @@ header a{
     .carousel .list .item .content .title{
         font-size: 30px;
     }
-}
+} */
