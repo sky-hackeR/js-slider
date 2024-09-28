@@ -245,7 +245,7 @@ header a{
     to{width: 0}
 }
 
-.carousel.prev .list .item:nth-child(2){
+/* .carousel.prev .list .item:nth-child(2){
     z-index: 2;
 }
 
@@ -263,7 +263,7 @@ header a{
         left: 50%;
         border-radius: 20px;
     }
-}
+} */
 
 .carousel.prev .thumbnail .item:nth-child(1){
     overflow: hidden;
